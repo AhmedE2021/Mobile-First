@@ -1,0 +1,6 @@
+User-agent: * 
+Disallow:/images/
+Disallow:/fonts/
+Disallow:/delivery.html/
+Disallow:/css/
+Sitemap: http://coding101.dk/
